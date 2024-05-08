@@ -1,0 +1,39 @@
+Subset_dataset containts 15 entries with the following data:
+ 
+
+Target soil properties 
+- Soil organic carbon as "Humus" (in %)
+- Soil pH as "pH_lab"
+- Soil moisture as "Moisture" (in %)
+- Plant available Potassium as K_lab (mg K2O 100^-1 g soil)
+- Plant available Magnesium as Mg_lab (mg MgO 100^-1 g soil)
+- Plant available Phosphorus (mg P2O5 100^-1 g soil)
+
+
+Sensor predictors
+
+- XRF
+Al_XRF, Si_XRF, P_XRF, Ca_XRF, Mn_XRF, Fe_XRF, Zn_XRF, Mg_XRF, Pb_XRF
+
+- ISE
+pH_Veris
+
+- NIR
+NIR_PC1, NIR_PC2 ... NIR_PC20
+
+- ECa
+EC_rm
+
+- CSMoist
+Moisture_Veris
+
+- RS
+B02_sent_bands, B03_sent_bands, B04_sent_bands, B05_sent_bands, B06_sent_bands, B07_sent_bands, B08_sent_bands, B08A_sent_bands, B11_sent_bands, B12_sent_bands
+
+- γ
+K40_Gamma, U238_Gamma, Cs137_Gamma, TC_Gamma
+
+
+------
+License:
+This dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). 
