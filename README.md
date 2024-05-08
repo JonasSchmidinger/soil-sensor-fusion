@@ -1,8 +1,9 @@
 # This repository refers to the paper [insert name and journal] 
 
 # Script:
-# Published_Script refers to the R script used in this study 
+# Published_Script refers to the R script used for this study.
 # The script is written in R (R version 4.3.2 (2023-10-31 ucrt)).
+# R script was written for RStudio but not tested in other environment.
 
 # Data:
 # Subset_dataset refers to a subset of the original processed dataset used in the study for the modelling.
