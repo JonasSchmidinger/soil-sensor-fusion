@@ -1,7 +1,7 @@
 This repository refers to the paper [insert name and journal] 
 
 # Script:
-Published_Script refers to the R script used for this study.
+Published_Script refers to the R script used for this study, responding to the workflow in Fig. 2 of the paper.
 The script is written in R (R version 4.3.2 (2023-10-31 ucrt)).
 R script was written for RStudio but not tested in other environment.
 
