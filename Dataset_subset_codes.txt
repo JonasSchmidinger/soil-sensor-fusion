@@ -15,7 +15,7 @@ Sensor predictors
 - XRF
 Al_XRF, Si_XRF, P_XRF, Ca_XRF, Mn_XRF, Fe_XRF, Zn_XRF, Mg_XRF, Pb_XRF
 
-- ISE
+- pH-ISE
 pH_Veris
 
 - NIR
