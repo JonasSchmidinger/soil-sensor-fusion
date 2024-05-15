@@ -1,4 +1,4 @@
-Subset_dataset containts 15 entries with the following data:
+Joint_Table_15_rds containts 15 entries with the following data:
  
 
 Target soil properties 
