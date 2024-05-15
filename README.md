@@ -14,7 +14,7 @@ As of today (8th of May 2024) it is planned that the raw data for the dataset wi
 As of today (8th of May 2024), I am not allowed to publish the whole dataset but I am willing to share the full dataset (N = 159) for reproducibility purposes.
 However, further usage of the dataset may be restricted.
 
-#N otes:
+# Notes:
 Performance is very sensitive to the number of training samples.
 Hence, the results with this subset are not comparable in any way to the results provided in our paper. 
 
