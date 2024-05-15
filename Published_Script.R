@@ -117,7 +117,7 @@ sensor_in_grid <- function(input_data,grid_input,sensor_name){
 
 #'* Organize data*
 # Data needs to be inputted here. I.e., Joint_Table_15_rds for the subset with 15 samples or contact us to get the whole dataset in order to correctly reproduce the results.
-Joint_Table <- readRDS(file = "Output/Joint_Table_15_rds")
+Joint_Table <- readRDS(file = "Joint_Table_15_rds")
 Joint_Table
 
 
