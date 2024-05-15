@@ -116,9 +116,10 @@ sensor_in_grid <- function(input_data,grid_input,sensor_name){
 #
 
 #'* Organize data*
-# Read dataframe containing the target soil properties and all predictors
-Joint_Table <- readRDS(file = "Output/Joint_Table.df")
+# Data needs to be inputted here. I.e., Joint_Table_15_rds for the subset with 15 samples or contact us to get the whole dataset in order to correctly reproduce the results.
+Joint_Table <- readRDS(file = "Output/Joint_Table_15_rds")
 Joint_Table
+
 
 
 # Group all predictors into a vector that contains specific string in their name i.e. all NIR and sent (Sentinal-2) predictors
