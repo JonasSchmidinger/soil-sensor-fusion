@@ -6,8 +6,10 @@ The script is written in R (R version 4.3.2 (2023-10-31 ucrt)).
 R script was written for RStudio but not tested in other environment.
 
 # Data:
-Subset_dataset refers to a subset of the original processed dataset used in the study for the modelling.
+Joint_Table_15_rds refers to a subset of the original processed dataset used in the study for the modelling.
+Joint_Table_15_rds_codes.txt gives an overview about the structure and codes of the dataset.
 The data  provided for this script is only a subset (n = 15) of the original dataset (N = 159), intended for demonstration purposes.
+
 
 # Data availability:
 As of today (8th of May 2024) it is planned that the raw data for the dataset will be published openly-accessible after the i4s project ended.
