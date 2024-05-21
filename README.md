@@ -1,4 +1,4 @@
-This repository refers to the paper [insert name and journal] 
+This repository refers to the paper [insert name and journal later] 
 
 # Script:
 Published_Script refers to the R script used for this study, responding to the workflow in Fig. 2 of the paper.
