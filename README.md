@@ -20,8 +20,6 @@ However, further usage of the dataset may be restricted.
 Performance is very sensitive to the number of training samples.
 Hence, the results with this subset are not comparable in any way to the results provided in our paper. 
 
-# Further code:
-I did not share the code to generate all the figures due to messy documentation.
-However, if you are interested please contact me (Jonas.Schmidinger@uni-osnabrueck.de) and I will share it.
+If you have any other questions please contact me (Jonas.Schmidinger@uni-osnabrueck.de).
 
 J Schmidinger, May 2024
