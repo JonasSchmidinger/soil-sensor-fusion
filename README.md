@@ -1,4 +1,4 @@
-This repository refers to the paper [insert name and journal later] 
+This repository refers to the paper "Which and how many soil sensors are ideal to predict key soil properties: A case study with seven sensors" published in Geoderma
 
 # Script:
 Published_Script refers to the R script used for this study, responding to the workflow in Fig. 2 of the paper.
